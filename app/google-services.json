@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858671072354",
+    "firebase_url": "https://solife-db4ea.firebaseio.com",
+    "project_id": "solife-db4ea",
+    "storage_bucket": "solife-db4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858671072354:android:33d0dfe4cdd9b6e0",
+        "android_client_info": {
+          "package_name": "virginia.edu.solife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858671072354-8uasrfdqviinvfam55k85k5rtjqe1kbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxSRKO2x9O90li_9VBU-06EyLbNqxAno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
